@@ -1,6 +1,7 @@
 {
   "version": 2,
   "projects": {
-    "backend-ms-bookshop": "apps/backend/ms-bookshop"
+    "backend-ms-bookshop": "apps/backend/ms-bookshop",
+    "shared-entities": "libs/shared/entities"
   }
 }
