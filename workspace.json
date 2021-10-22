@@ -1,0 +1,6 @@
+{
+  "version": 2,
+  "projects": {
+    "backend-ms-bookshop": "apps/backend/ms-bookshop"
+  }
+}
